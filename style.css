@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+}
+#superior
+{
+    margin-top: 2dvh;
+    text-align: center;   
+}
+#botoes
+{
+    position: fixed;
+    right: 10dvw;
+    top: 2dvh;
+}
+#principal
+{
+    position: fixed;
+    right: 260px;
+    margin-top: 200px;
+}
+img
+{
+    margin-top: 15dvh;
+    margin-left: 100px;
+    border-radius: 16px;
+}
+.material-symbols-outlined
+{
+   vertical-align: -9px;
+}
+
+.menu
+{
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    text-transform: capitalize;
+}
+.linkk1
+{
+    font-size: 20px;
+}
+#link1 {
+    background-color: #4d40d7;
+    color: white;
+    border: 3px;
+    border-radius: 8px 20px;
+    padding: 10px;
+    text-decoration: none;
+}   
+.link2 {
+border: 3px solid #4d40d7;
+border-radius: 10px 20px;
+padding: 8px;
+color: #4d40d7;
+
+text-decoration: none;
+}
+#chamada
+{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif  ;
+    font-size: 50px;
+    margin: 0;
+}
+#moto
+{
+    color: gray;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 30px;
+}
